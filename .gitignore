@@ -1,0 +1,21 @@
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# dependencies
+/node_modules
+
+# Cach
+.angular/cache
+
+# Directories content
+**/.settings
+**/target
+
+*.project
+*.class
+*.classpath
+*.jar
+*.war
+*.ear
